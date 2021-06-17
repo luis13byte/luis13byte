@@ -10,11 +10,11 @@
 **Languages and Tools:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/vagrant/vagrant.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
