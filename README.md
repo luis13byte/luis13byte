@@ -1,8 +1,8 @@
-# Hello, world ! <img src="https://raw.githubusercontent.com/luis13byte/gifs/master/wave.gif" width="30px">
+# Hello, world ! <img src="https://raw.githubusercontent.com/luis13byte/luis13byte/main/gifs/wave.gif" width="30px">
 
-**About me** 
+**About me:** 
 
-- 👋 Hi, I’m @luis13byte.
+- 👋 I’m @luis13byte, a simple IT guy.
 - 👀 I’m interested in systems, scripting, containers, and emerging technologies that are interesting for the current market.
 - 🌱 I’m currently learning Kubernetes and Terraform.
 - 📫 How to reach me.. Well you can write me an email (luis98tv@gmail.com), give me a "ping" :wink:.
