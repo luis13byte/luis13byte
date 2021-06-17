@@ -3,7 +3,7 @@
 **About me:** 
 
 - 👋 I’m @luis13byte, a simple IT guy.
-- 👀 I’m interested in systems, scripting, containers, and emerging technologies that are interesting for the current market.
+- 👀 I’m interested in systems, containers technologies, scripting, and emerging technologies that are interesting for the current market.
 - 🌱 I’m currently learning Kubernetes and Terraform.
 - 📫 How to reach me.. Well if you want to tell me something you can write me an email (luis98tv@gmail.com), give me a "ping" :wink:.
 
