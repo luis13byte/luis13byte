@@ -10,6 +10,7 @@
 **Languages and Tools:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
