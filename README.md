@@ -2,7 +2,7 @@
 
 **About me:** 
 
-- 👋 I’m @luis13byte, a simple DevOps engineer.
+- 👋 I’m Luis Acosta, a simple DevOps engineer.
 - 👀 I’m mainly interested in systems, software containers, scripting and cutting edge technologies that are interesting for the IT industry today.
 - 🌱 I’m currently learning Kubernetes and the Prometheus + Grafana stack.
 - 📫 How to reach me.. Well if you want to contact me you can write me an email (luis13cst@gmail.com), "ping me" :wink:.
