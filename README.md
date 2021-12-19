@@ -2,9 +2,9 @@
 
 **About me:** 
 
-- 👋 I’m Luis Acosta, a simple DevOps engineer with a great passion for technology and how it changes the world.
+- 👋 I’m **Luis Acosta**, a simple DevOps engineer with a great passion for technology and how it changes the world.
 - 👀 I’m mainly interested in systems, software containers, scripting and cutting edge technologies that are interesting for the IT industry today.
-- 🌱 I’m currently learning Kubernetes and the Prometheus + Grafana stack.
+- 🌱 I’m currently learning **Kubernetes and the Prometheus + Grafana stack**
 - 📫 How to reach me.. Well if you want to contact me you can write me an email (luis13cst@gmail.com), "ping me" :wink:.
 
 **Languages and Tools:**  
