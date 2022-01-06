@@ -1,6 +1,6 @@
 # Hello, world! <img src="https://raw.githubusercontent.com/luis13byte/luis13byte/main/gifs/wave.gif" width="30px">
 
-<img align="right" style="width:15rem; height:auto" src="https://pragmaticslearning.com/wp-content/uploads/2019/07/Man_Working_at_his_Desk_GIF_Animation_Loop.gif"/>
+<img align="right" style="width:15rem; height:auto" src="https://raw.githubusercontent.com/luis13byte/luis13byte/main/gifs/working.gif"/>
 
 ### About me:
 
