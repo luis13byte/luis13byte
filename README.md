@@ -28,6 +28,17 @@ I currently provide hosting services to small local businesses, using my own bar
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<a href="https://github.com/features/actions"> 
+  <code><img height="40" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"></code>
+</a>
+<a href="https://prometheus.io/"> 
+  <code><img height="40" src="https://prometheus.io/assets/favicons/favicon.ico"></code>
+</a>
+<a href="https://www.nginx.com/"> 
+  <code><img height="40" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"></code>
+</a>
+
+
   
 ### Stats:
 <img height="165" src="https://github-readme-stats.vercel.app/api/?username=luis13byte&theme=chartreuse-dark" />  <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=luis13byte&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
