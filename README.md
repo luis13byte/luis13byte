@@ -30,8 +30,7 @@ I currently provide hosting services to small local businesses, using my own bar
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
   
 ### Stats:
-<img height="185" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=luis13byte&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
-<img height="185" align="center" src="https://github-readme-stats.vercel.app/api/?username=luis13byte&theme=chartreuse-dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/?username=luis13byte&theme=chartreuse-dark" />  <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=luis13byte&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
 
 ### Contact me:
 <div>
