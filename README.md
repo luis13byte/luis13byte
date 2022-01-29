@@ -7,7 +7,7 @@
 I'm **Luis Acosta**, a simple DevOps engineer with a great passion for technology and how it changes the world.
 
 - 👀 I’m mainly interested in systems, software containers, scripting and cutting edge technologies that are interesting for the IT industry today. 
-- 🌱 I’m currently learning **Kubernetes** and the **Prometheus + Grafana stack**.
+- 🌱 I’m currently learning **Kubernetes** and **Github Actions**.
 
 ### Learning by myself:
 I currently provide hosting services to small local businesses, using my own bare metal servers, to test ideas, technologies and also improve my BackEnd skills.
