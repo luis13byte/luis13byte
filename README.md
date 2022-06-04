@@ -1,4 +1,4 @@
-# Hello, world! <img src="https://raw.githubusercontent.com/luis13byte/luis13byte/main/gifs/wave.gif" width="30px">
+# Hello, world! <img src="https://raw.githubusercontent.com/luis13byte/luis13byte/main/gifs/wave.gif" width="3%">
 
 <!---
 <img align="right" style="width:14rem; height:auto" src="https://raw.githubusercontent.com/luis13byte/luis13byte/main/gifs/working.gif"/>
