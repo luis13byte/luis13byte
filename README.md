@@ -19,6 +19,7 @@ I'm **Luis Acosta**, a simple DevOps engineer with a great passion for technolog
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vagrant/vagrant.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
