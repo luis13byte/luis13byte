@@ -35,10 +35,6 @@ I'm **Luis Acosta**, a DevOps engineer with a great passion for technology and h
 </a>
 
 
-  
-### Stats:
-<img height="165" src="https://github-readme-stats.vercel.app/api/?username=luis13byte&theme=chartreuse-dark" />  <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=luis13byte&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
-
 ### Contact me:
 <div>
 <a href="mailto:luis13cst@gmail.com.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
