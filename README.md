@@ -8,32 +8,17 @@
 
 I'm **Luis Acosta**, a DevOps engineer with a great passion for technology and how it changes the world.
 
-- 👀 I’m mainly interested in systems, software containers, scripting and cutting edge technologies that are interesting for the IT industry today. 
-- 🌱 I’m currently learning **Kubernetes** and backend development with **Node.js**.
-
 ### Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vagrant/vagrant.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<a href="https://github.com/features/actions"> 
-  <code><img height="40" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"></code>
-</a>
-<a href="https://prometheus.io/"> 
-  <code><img height="40" src="https://prometheus.io/assets/favicons/favicon.ico"></code>
-</a>
-<a href="https://www.nginx.com/"> 
-  <code><img height="40" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"></code>
-</a>
-
 
 ### Contact me:
 <div>
